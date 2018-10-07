@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.anuran.jhipster.blog",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.4.1",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "org.anuran.jhipster.blog",
+    "packageFolder": "org/anuran/jhipster/blog",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "rememberMeKey": "2239cdbc15ce3ae782f0151292e387cc57b65f266a170f0ca870ec73ba801ff8479c79faadd18b149a0b9daf987c53b69ec7",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "bn",
+      "fr",
+      "hi"
+    ]
+  }
+}
